@@ -59,6 +59,7 @@ LEFT JOIN dept_emp as de
 ON ri.emp_no = de.emp_no
 WHERE de.to_date = ('9999-01-01');
 
+-- Check the table
 SELECT * FROM current_emp;
 
 -- Employee count by department number
@@ -126,3 +127,4 @@ FROM current_emp as ce
 		ON (ce.emp_no = de.emp_no)
 	INNER JOIN departments AS d
 		ON (de.dept_no = d.dept_no);
+		
