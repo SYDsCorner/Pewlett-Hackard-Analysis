@@ -45,13 +45,12 @@ and identify employees who are eligible to participate in a mentorship program.
    ![5 1 Number_all_retire_emp](https://user-images.githubusercontent.com/89308251/136643189-0931f87d-43bc-426b-9945-583523f547aa.png)
 
 
-
-   
+  
    - > However, there are 72,458 roles that will need to be filled if we exclude people who no longer work for the company or who are immediately about to retire.
 
    ![5 2 Number_all_retire_emp](https://user-images.githubusercontent.com/89308251/136643118-9f6e31d0-d297-4183-8dba-98f262b973f8.png)
 
-
+ 
     
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
@@ -60,7 +59,6 @@ this means that there must be 1 mentor per 46-47 new employees. In my opinion, i
    - There are many ways to solve this situation. For example: 
       - The company could expand the eligibility to not limit employees who were born only in 1965 so the company could get enough mentors.
       - The mentor might have to split new employees into smaller rooms with 23-24 people and train them in different weeks.     
-
 ![7  emps_per_mentor](https://user-images.githubusercontent.com/89308251/136643685-7a79cd5e-eeb3-43f1-93cb-2d8e2f9db3b8.png)
 
 
