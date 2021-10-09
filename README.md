@@ -12,7 +12,7 @@ and identify employees who are eligible to participate in a mentorship program.
 
 - Some employees that are included in the "retirement_titles" table no longer work for the company. Those people who have left are identified by the "to_date" column.
 
-![1  Retirement_Titles](https://user-images.githubusercontent.com/89308251/136643098-1d194f1f-c184-4050-ad51-bef2d8cf5bc3.png)
+![1  Retirement_Titles](https://user-images.githubusercontent.com/89308251/136645787-93af75db-c9e4-46f0-ba4e-3792a9a69446.png)
 
 
 
@@ -30,8 +30,7 @@ and identify employees who are eligible to participate in a mentorship program.
 
 - The number of retiring employees who are eligible to become mentors is 1,549 people.
 
-![4  Mentorship_Eligibilty](https://user-images.githubusercontent.com/89308251/136643109-05822c85-00ef-43f0-bf71-e2ee1f071b38.png)
-
+![4  Mentorship_Eligibilty](https://user-images.githubusercontent.com/89308251/136645801-6029b184-e50c-4e6a-b521-3a03445a103b.png)
 
  
  
@@ -56,9 +55,13 @@ and identify employees who are eligible to participate in a mentorship program.
 
    - Since currently there are 72,458 roles needed to be filled for the next generation of Pewlett Hackard employees and there are 1,549 qualified mentors, 
 this means that there must be 1 mentor per 46-47 new employees. In my opinion, it would be tough to train a lot of people at the same time which may affect the quality of mentoring that the new employee will get in a negative way.
+
+
    - There are many ways to solve this situation. For example: 
       - The company could expand the eligibility to not limit employees who were born only in 1965 so the company could get enough mentors.
       - The mentor might have to split new employees into smaller rooms with 23-24 people and train them in different weeks.     
-![7  emps_per_mentor](https://user-images.githubusercontent.com/89308251/136643685-7a79cd5e-eeb3-43f1-93cb-2d8e2f9db3b8.png)
+
+![7  emps_per_mentor](https://user-images.githubusercontent.com/89308251/136645882-1ccc4001-de9c-40ad-a60f-d38b6fa4020c.png)
+
 
 
