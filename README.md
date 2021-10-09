@@ -61,8 +61,6 @@ this means that there must be 1 mentor per 46-47 new employees. In my opinion, i
       - The company could expand the eligibility to not limit employees who were born only in 1965 so the company could get enough mentors.
       - The mentor might have to split new employees into smaller rooms with 23-24 people and train them in different weeks.     
 
-
-
-
+![7  emps_per_mentor](https://user-images.githubusercontent.com/89308251/136643685-7a79cd5e-eeb3-43f1-93cb-2d8e2f9db3b8.png)
 
 
