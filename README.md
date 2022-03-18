@@ -1,12 +1,11 @@
 # Pewlett_Hackard_Analysis
-![employees](https://user-images.githubusercontent.com/89308251/158940215-199a4bef-cfc8-495e-b466-bdab76d7b557.jpg)
+![Retirees](https://user-images.githubusercontent.com/89308251/158940369-226d6dd3-fa38-499a-9077-7ef71a920651.jpg)
 
 ## Challenge Overview
 
 ### Purpose:
 
-The purpose of this analysis is to determine the number of retiring employees who were born between January 1, 1952 and December 31, 1955 per title by their most recent job title, 
-and identify employees who are eligible to participate in a mentorship program.
+The purpose of this analysis is to determine the number of retiring employees who were born between January 1, 1952 and December 31, 1955 per title by their most recent job title, and identify employees who are eligible to participate in a mentorship program.
 
 ## Resources
 - Software:
