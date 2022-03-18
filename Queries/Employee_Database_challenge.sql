@@ -89,20 +89,3 @@ INNER JOIN dept_emp AS de
 	ON (e.emp_no = de.emp_no)
 WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 AND (de.to_date = '9999-01-01');
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
