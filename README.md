@@ -1,4 +1,5 @@
 # Pewlett_Hackard_Analysis
+![employees](https://user-images.githubusercontent.com/89308251/158940215-199a4bef-cfc8-495e-b466-bdab76d7b557.jpg)
 
 ## Challenge Overview
 
@@ -6,7 +7,21 @@
 
 The purpose of this analysis is to determine the number of retiring employees who were born between January 1, 1952 and December 31, 1955 per title by their most recent job title, 
 and identify employees who are eligible to participate in a mentorship program.
+
+## Resources
+- Software:
+   - pgAdmin 4
+     - PostgreSQL
+   - [Quick DBD](https://www.quickdatabasediagrams.com/) (Create ERDs)
    
+- Data sources: 
+   - [departments.csv](https://github.com/SYDsCorner/Pewlett-Hackard-Analysis/blob/main/Data/departments.csv)
+   - [dept_emp.csv](https://github.com/SYDsCorner/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv)
+   - [dept_manager.csv](https://github.com/SYDsCorner/Pewlett-Hackard-Analysis/blob/main/Data/dept_manager.csv)
+   - [employees.csv](https://github.com/SYDsCorner/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv)
+   - [salaries.csv](https://github.com/SYDsCorner/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv)
+   - [titles.csv](https://github.com/SYDsCorner/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv)
+
    
 ## Results: 
 
